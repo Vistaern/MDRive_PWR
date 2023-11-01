@@ -1,0 +1,54 @@
+Protel Design System Design Rule Check
+PCB File : D:\_WORK_SSD\MDrive\MDRive_powertest\MDrive_powertest.PcbDoc
+Date     : 01.11.2023
+Time     : 12:17:59
+
+Processing Rule : Clearance Constraint (Gap=0mm) (IsPad OR IsRegion OR IsFill OR IsWire),(IsKeepOut)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.8mm) (InNetClass('HV')),(OnLayer('Power') OR OnLayer('Ground'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=1.8mm) (InNetClass('HV')),(OnLayer('Top Layer') OR OnLayer('Bottom Layer'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=10mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.3mm) (Air Gap=0.2mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.13mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.5mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (isVia),(isVia)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01
