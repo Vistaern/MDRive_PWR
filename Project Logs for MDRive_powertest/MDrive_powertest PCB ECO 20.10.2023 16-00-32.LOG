@@ -1,0 +1,16 @@
+Added Component: Designator=C22(B41828 8X11.5)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Epcos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "8x11.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор электролитический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Штыревой"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VSUP Pin=C22-1
+Added Pin To Net: NetName=GNDSUP Pin=C22-2
+Added Member To Class: ClassName=common_power Member=Component C22 47u

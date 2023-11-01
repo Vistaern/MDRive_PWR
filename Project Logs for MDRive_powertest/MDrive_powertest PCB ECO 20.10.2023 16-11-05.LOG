@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VSUP Pin=T1-1
+Removed Pin From Net: NetName=VSUP Pin=T1-2
+Removed Pin From Net: NetName=NetR7_2 Pin=T1-3
+Removed Pin From Net: NetName=GND Pin=T1-4
+Removed Pin From Net: NetName=NetC1_1 Pin=T1-9
+Removed Pin From Net: NetName=GNDSUP Pin=T1-10
+Removed Pin From Net: NetName=NetT1_11 Pin=T1-11
+Removed Pin From Net: NetName=NetT1_11 Pin=T1-12
+Change Component Comment : Designator=T1 Old Comment=TDK RM8 New Comment=TDK RMx
+Added Pin To Net: NetName=NetT1_11 Pin=T1-1
+Added Pin To Net: NetName=NetT1_11 Pin=T1-2
+Added Pin To Net: NetName=NetT1_11 Pin=T1-3
+Added Pin To Net: NetName=GNDSUP Pin=T1-4
+Added Pin To Net: NetName=NetR7_2 Pin=T1-9
+Added Pin To Net: NetName=VSUP Pin=T1-10
+Added Pin To Net: NetName=VSUP Pin=T1-11
+Added Pin To Net: NetName=VSUP Pin=T1-12
+Change Net Name : Old Net Name=NetT1_11 New Net Name=NetT1_1

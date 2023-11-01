@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VSUP Pin=T1-HV1
+Removed Pin From Net: NetName=NetT1_HV2 Pin=T1-HV2
+Added Pin To Net: NetName=NetT1_HV2 Pin=T1-HV1
+Added Pin To Net: NetName=VSUP Pin=T1-HV2
+Change Net Name : Old Net Name=NetT1_HV2 New Net Name=NetT1_HV1

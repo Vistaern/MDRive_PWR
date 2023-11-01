@@ -1,0 +1,15 @@
+Change Component DesignItemId : Designator=R6 Old DesignItemId=RES_0805 New DesignItemId=RES_1206
+Change Component Footprint: Designator=R6 Old Footprint=RES0805 New Footprint=RES1206
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RES0805"; UniqueID = "\ZLPKZHZA" ("\ZLPKZHZA")
+Change component parameters (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = "{Value}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип компонента"; Value = "Резистор чип"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип корпуса"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Характеристики"; Value = "0.25Вт 200В"; VariantName = "[No Variations]"

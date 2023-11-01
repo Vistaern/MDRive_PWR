@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GNDSUP Pin=R14-1
+Change Component Comment : Designator=R14 Old Comment=10m New Comment=5.1m
+Added Component: Designator=R17(RES2512)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Резистор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "1.0Вт 200В"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GNDSUP Pin=R17-1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=R17-2
+Added Net: Name=NetR14_1
+Added Member To Class: ClassName=common_power Member=Component R17 5.1m

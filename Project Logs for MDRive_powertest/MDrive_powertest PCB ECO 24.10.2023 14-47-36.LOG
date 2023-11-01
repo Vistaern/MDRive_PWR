@@ -1,0 +1,4 @@
+Added Component: Designator=TP9(TESTPOINT_HOLE)
+Added Component: Designator=TP10(TESTPOINT_HOLE)
+Added Pin To Net: NetName=NetDA1_1 Pin=TP9-1
+Added Pin To Net: NetName=NetDA1_2 Pin=TP10-1

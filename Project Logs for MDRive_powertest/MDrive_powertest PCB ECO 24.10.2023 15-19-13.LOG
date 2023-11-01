@@ -1,0 +1,6 @@
+Added Member To Class: ClassName=common_power Member=Component TP9 Test point
+Added Member To Class: ClassName=common_power Member=Component TP10 Test point
+Added Member To Class: ClassName=HV Member=Wire PW_A
+Added Member To Class: ClassName=HV Member=Wire PW_B
+Added Member To Class: ClassName=HV Member=Wire PW_C
+Added Member To Class: ClassName=HV Member=Wire PW_M

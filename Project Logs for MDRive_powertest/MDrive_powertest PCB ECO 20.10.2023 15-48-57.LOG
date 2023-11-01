@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VSUP Pin=T1-3
+Removed Pin From Net: NetName=NetR7_2 Pin=T1-4
+Removed Pin From Net: NetName=GNDSUP Pin=T1-5
+Removed Pin From Net: NetName=GND Pin=T1-7
+Removed Pin From Net: NetName=NetT1_10 Pin=T1-10
+Added Pin To Net: NetName=NetR7_2 Pin=T1-3
+Added Pin To Net: NetName=GND Pin=T1-4
+Added Pin To Net: NetName=GND Pin=T1-5
+Added Pin To Net: NetName=NetC1_1 Pin=T1-7
+Added Pin To Net: NetName=GNDSUP Pin=T1-10
+Change Net Name : Old Net Name=NetT1_10 New Net Name=NetT1_11

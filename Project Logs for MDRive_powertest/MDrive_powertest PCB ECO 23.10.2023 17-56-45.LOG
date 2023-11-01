@@ -1,0 +1,16 @@
+Added Component: Designator=T1(TDK RM8 HV ADD)
+Added Pin To Net: NetName=PW_M Pin=T1-1
+Added Pin To Net: NetName=PW_T Pin=T1-2
+Added Pin To Net: NetName=PW_C Pin=T1-3
+Added Pin To Net: NetName=PW_B Pin=T1-4
+Added Pin To Net: NetName=PW_A Pin=T1-5
+Added Pin To Net: NetName=NetR5_2 Pin=T1-6
+Added Pin To Net: NetName=GNDSUP Pin=T1-7
+Added Pin To Net: NetName=GND_A Pin=T1-8
+Added Pin To Net: NetName=GND_B Pin=T1-9
+Added Pin To Net: NetName=GND_C Pin=T1-10
+Added Pin To Net: NetName=GND_T Pin=T1-11
+Added Pin To Net: NetName=GND Pin=T1-12
+Added Pin To Net: NetName=NetT1_HV1 Pin=T1-HV1
+Added Pin To Net: NetName=VSUP Pin=T1-HV2
+Added Member To Class: ClassName=common_power Member=Component T1 TDK RM10

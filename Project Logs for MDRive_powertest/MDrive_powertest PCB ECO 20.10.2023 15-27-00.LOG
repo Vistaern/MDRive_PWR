@@ -1,0 +1,867 @@
+Added Component: Designator=C1(CAP1206)
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "3.3n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP1206)
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "520n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=C3(B41828 8X11.5)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Epcos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "8x11.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор электролитический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Штыревой"; VariantName = "[No Variations]"
+Added Component: Designator=C4(B41828 8X11.5)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Epcos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "8x11.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор электролитический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Штыревой"; VariantName = "[No Variations]"
+Added Component: Designator=C5(B41828 8X11.5)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Epcos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "8x11.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор электролитический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Штыревой"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_D)
+Add component (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор танталовый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "Тип D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_D)
+Add component (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор танталовый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "Тип D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_D)
+Add component (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор танталовый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "Тип D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_D)
+Add component (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор танталовый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "Тип D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP0603)
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "0.1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP0805)
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "10.0u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP0603)
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "0.1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP_D)
+Add component (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор танталовый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "Тип D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP_D)
+Add component (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор танталовый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "Тип D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAP_D)
+Add component (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор танталовый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "Тип D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP0603)
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "0.1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAP0603)
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "0.1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAP_D)
+Add component (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор танталовый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "Тип D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAP_D)
+Add component (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор танталовый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "Тип D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAP_D)
+Add component (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор танталовый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "Тип D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAP0603)
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "0.1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Конденсатор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=DA1(SOIC-4)
+Add component (AddParameter): Name = "Наименование"; Value = "TPL281"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Оптопара"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "SOIC-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "80В 50мА"; VariantName = "[No Variations]"
+Added Component: Designator=DD1(SOT363-6)
+Added Component: Designator=DD2(SO8_NCP1377)
+Added Component: Designator=DD3(TO-263-5)
+Added Component: Designator=DD4(TO-263-5)
+Added Component: Designator=L1(B82464G4)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Epcos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Индуктивность чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=L2(B82464G4)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Epcos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Индуктивность чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES1206)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Резистор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "0.25Вт 200В"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES2512)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Резистор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "1.0Вт 200В"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES2512)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Резистор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "1.0Вт 200В"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES2512)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Резистор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "1.0Вт 200В"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES2512)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Резистор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "1.0Вт 200В"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES0603)
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Резистор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "0.1Вт 50В"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES0603)
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Резистор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "0.1Вт 50В"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES0805)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Резистор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "0.125Вт 150В"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES0603)
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Резистор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "0.1Вт 50В"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES0603)
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Резистор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "0.1Вт 50В"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES0603)
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Резистор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "0.1Вт 50В"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES0603)
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Резистор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "0.1Вт 50В"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES0603)
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Резистор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "0.1Вт 50В"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES2512)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Резистор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "1.0Вт 200В"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES0603)
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Резистор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "0.1Вт 50В"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES0603)
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Резистор чип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "0.1Вт 50В"; VariantName = "[No Variations]"
+Added Component: Designator=SP1(FIXTURE_HOLE_3mm)
+Added Component: Designator=SP2(FIXTURE_HOLE_3mm)
+Added Component: Designator=SP3(FIXTURE_HOLE_3mm)
+Added Component: Designator=SP4(FIXTURE_HOLE_3mm)
+Added Component: Designator=T1(TDK RM10)
+Added Component: Designator=TP1(TESTPOINT_HOLE)
+Added Component: Designator=TP2(TESTPOINT_HOLE)
+Added Component: Designator=TP3(TESTPOINT_HOLE)
+Added Component: Designator=TP4(TESTPOINT_HOLE)
+Added Component: Designator=TP5(TESTPOINT_HOLE)
+Added Component: Designator=TP6(TESTPOINT_HOLE)
+Added Component: Designator=TP7(TESTPOINT_HOLE)
+Added Component: Designator=TP8(TESTPOINT_HOLE)
+Added Component: Designator=TP9(TESTPOINT_HOLE)
+Added Component: Designator=VD1(SMA)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "BYG21M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "WTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Диод Шоттки"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "28В 3А"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(DO-27)
+Add component (AddParameter): Name = "Наименование"; Value = "1.5KE150A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Диод TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "1500 Вт"; VariantName = "[No Variations]"
+Added Component: Designator=VD3(DO-27)
+Add component (AddParameter): Name = "Наименование"; Value = "1.5KE300A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Диод TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "1500 Вт"; VariantName = "[No Variations]"
+Added Component: Designator=VD4(SMA)
+Add component (AddParameter): Name = "Наименование"; Value = "10MQ040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "WTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Диод Шоттки"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "40В 1А"; VariantName = "[No Variations]"
+Added Component: Designator=VD5(SOD123)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "MMSZ5252B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Стабилитрон"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "SOD123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "2.4-37В 20мА"; VariantName = "[No Variations]"
+Added Component: Designator=VD6(SMA)
+Add component (AddParameter): Name = "Наименование"; Value = "10MQ040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "WTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Диод Шоттки"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "40В 1А"; VariantName = "[No Variations]"
+Added Component: Designator=VD7(SMA)
+Add component (AddParameter): Name = "Наименование"; Value = "10MQ040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "WTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Диод Шоттки"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Характеристики"; Value = "40В 1А"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(D2PAK)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "International Rectifier, IRF2807S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Транзистор полевой (MOSFET)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "D2PAK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(D2PAK)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "International Rectifier, IRF2807S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Транзистор полевой (MOSFET)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "D2PAK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Added Component: Designator=XS1(MF2X3R_FIX)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "MiniFit 2X3R_FIX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Разъем"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "шаг 4,2 мм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Штыревой"; VariantName = "[No Variations]"
+Added Component: Designator=XS2(MF2X2R_FIX)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "MiniFit R_FIX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Разъем"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "шаг 4,2 мм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Штыревой"; VariantName = "[No Variations]"
+Added Component: Designator=XS3(MF2X2R_FIX)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "MiniFit R_FIX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Разъем"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "шаг 4,2 мм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Штыревой"; VariantName = "[No Variations]"
+Added Component: Designator=XS4(MF2X2R_FIX)
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "MiniFit R_FIX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставка"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Разброс номинала"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температурный разброс"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип компонента"; Value = "Разъем"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "шаг 4,2 мм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип монтажа"; Value = "Штыревой"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V0 Pin=C12-1
+Added Pin To Net: NetName=5V0 Pin=C13-1
+Added Pin To Net: NetName=5V0 Pin=C14-1
+Added Pin To Net: NetName=5V0 Pin=DD3-4
+Added Pin To Net: NetName=5V0 Pin=L1-2
+Added Pin To Net: NetName=5V0 Pin=XS3-1
+Added Pin To Net: NetName=5V0 Pin=XS3-3
+Added Net: Name=5V0
+Added Pin To Net: NetName=15V0 Pin=C17-1
+Added Pin To Net: NetName=15V0 Pin=C18-1
+Added Pin To Net: NetName=15V0 Pin=C19-1
+Added Pin To Net: NetName=15V0 Pin=L2-2
+Added Pin To Net: NetName=15V0 Pin=R15-2
+Added Pin To Net: NetName=15V0 Pin=XS4-1
+Added Pin To Net: NetName=15V0 Pin=XS4-3
+Added Net: Name=15V0
+Added Pin To Net: NetName=24V0 Pin=C6-1
+Added Pin To Net: NetName=24V0 Pin=C7-1
+Added Pin To Net: NetName=24V0 Pin=C8-1
+Added Pin To Net: NetName=24V0 Pin=C9-1
+Added Pin To Net: NetName=24V0 Pin=C10-1
+Added Pin To Net: NetName=24V0 Pin=C15-1
+Added Pin To Net: NetName=24V0 Pin=C16-1
+Added Pin To Net: NetName=24V0 Pin=C20-1
+Added Pin To Net: NetName=24V0 Pin=C21-1
+Added Pin To Net: NetName=24V0 Pin=DD1-6
+Added Pin To Net: NetName=24V0 Pin=DD3-1
+Added Pin To Net: NetName=24V0 Pin=DD4-1
+Added Pin To Net: NetName=24V0 Pin=R1-2
+Added Pin To Net: NetName=24V0 Pin=TP3-1
+Added Pin To Net: NetName=24V0 Pin=VT1-3
+Added Pin To Net: NetName=24V0 Pin=XS2-1
+Added Pin To Net: NetName=24V0 Pin=XS2-3
+Added Net: Name=24V0
+Added Pin To Net: NetName=GNDSUP Pin=C3-2
+Added Pin To Net: NetName=GNDSUP Pin=C4-2
+Added Pin To Net: NetName=GNDSUP Pin=C5-2
+Added Pin To Net: NetName=GNDSUP Pin=C11-2
+Added Pin To Net: NetName=GNDSUP Pin=DA1-3
+Added Pin To Net: NetName=GNDSUP Pin=DD2-4
+Added Pin To Net: NetName=GNDSUP Pin=R9-1
+Added Pin To Net: NetName=GNDSUP Pin=R14-1
+Added Pin To Net: NetName=GNDSUP Pin=T1-5
+Added Pin To Net: NetName=GNDSUP Pin=TP6-1
+Added Pin To Net: NetName=GNDSUP Pin=VD3-A
+Added Pin To Net: NetName=GNDSUP Pin=XS1-2
+Added Pin To Net: NetName=GNDSUP Pin=XS1-4
+Added Pin To Net: NetName=GNDSUP Pin=XS1-6
+Added Net: Name=GNDSUP
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=DD3-3
+Added Pin To Net: NetName=GND Pin=DD3-5
+Added Pin To Net: NetName=GND Pin=DD3-6
+Added Pin To Net: NetName=GND Pin=DD4-3
+Added Pin To Net: NetName=GND Pin=DD4-5
+Added Pin To Net: NetName=GND Pin=DD4-6
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=GND Pin=T1-6
+Added Pin To Net: NetName=GND Pin=T1-7
+Added Pin To Net: NetName=GND Pin=VD5-1
+Added Pin To Net: NetName=GND Pin=VD6-1
+Added Pin To Net: NetName=GND Pin=VD7-1
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=GND Pin=XS2-4
+Added Pin To Net: NetName=GND Pin=XS3-2
+Added Pin To Net: NetName=GND Pin=XS3-4
+Added Pin To Net: NetName=GND Pin=XS4-2
+Added Pin To Net: NetName=GND Pin=XS4-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=DD1-4
+Added Pin To Net: NetName=NetC1_1 Pin=R6-1
+Added Pin To Net: NetName=NetC1_1 Pin=T1-8
+Added Pin To Net: NetName=NetC1_1 Pin=T1-9
+Added Pin To Net: NetName=NetC1_1 Pin=TP2-1
+Added Pin To Net: NetName=NetC1_1 Pin=VT1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R2-2
+Added Pin To Net: NetName=NetC2_1 Pin=R3-2
+Added Pin To Net: NetName=NetC2_1 Pin=R4-2
+Added Pin To Net: NetName=NetC2_1 Pin=R5-2
+Added Pin To Net: NetName=NetC2_1 Pin=VD1-2
+Added Pin To Net: NetName=NetC2_1 Pin=VD2-K
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=DD2-6
+Added Pin To Net: NetName=NetC11_1 Pin=VD4-2
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetDA1_1 Pin=DA1-1
+Added Pin To Net: NetName=NetDA1_1 Pin=R13-1
+Added Net: Name=NetDA1_1
+Added Pin To Net: NetName=NetDA1_2 Pin=DA1-2
+Added Pin To Net: NetName=NetDA1_2 Pin=VD5-2
+Added Net: Name=NetDA1_2
+Added Pin To Net: NetName=NetDA1_4 Pin=DA1-4
+Added Pin To Net: NetName=NetDA1_4 Pin=DD2-2
+Added Pin To Net: NetName=NetDA1_4 Pin=TP7-1
+Added Net: Name=NetDA1_4
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_2 Pin=R10-2
+Added Net: Name=NetDD1_2
+Added Pin To Net: NetName=NetDD1_3 Pin=DD1-3
+Added Pin To Net: NetName=NetDD1_3 Pin=R6-2
+Added Pin To Net: NetName=NetDD1_3 Pin=R11-2
+Added Pin To Net: NetName=NetDD1_3 Pin=VT1-1
+Added Net: Name=NetDD1_3
+Added Pin To Net: NetName=NetDD2_1 Pin=DD2-1
+Added Pin To Net: NetName=NetDD2_1 Pin=R7-1
+Added Pin To Net: NetName=NetDD2_1 Pin=R9-2
+Added Net: Name=NetDD2_1
+Added Pin To Net: NetName=NetDD2_3 Pin=DD2-3
+Added Pin To Net: NetName=NetDD2_3 Pin=R12-1
+Added Pin To Net: NetName=NetDD2_3 Pin=TP8-1
+Added Net: Name=NetDD2_3
+Added Pin To Net: NetName=NetDD2_5 Pin=DD2-5
+Added Pin To Net: NetName=NetDD2_5 Pin=VT2-1
+Added Net: Name=NetDD2_5
+Added Pin To Net: NetName=NetDD2_8 Pin=DD2-8
+Added Pin To Net: NetName=NetDD2_8 Pin=R8-1
+Added Net: Name=NetDD2_8
+Added Pin To Net: NetName=NetDD3_2 Pin=DD3-2
+Added Pin To Net: NetName=NetDD3_2 Pin=L1-1
+Added Pin To Net: NetName=NetDD3_2 Pin=VD6-2
+Added Net: Name=NetDD3_2
+Added Pin To Net: NetName=NetDD4_2 Pin=DD4-2
+Added Pin To Net: NetName=NetDD4_2 Pin=L2-1
+Added Pin To Net: NetName=NetDD4_2 Pin=VD7-2
+Added Net: Name=NetDD4_2
+Added Pin To Net: NetName=NetDD4_4 Pin=DD4-4
+Added Pin To Net: NetName=NetDD4_4 Pin=R15-1
+Added Pin To Net: NetName=NetDD4_4 Pin=R16-1
+Added Net: Name=NetDD4_4
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=T1-4
+Added Pin To Net: NetName=NetR7_2 Pin=TP5-1
+Added Pin To Net: NetName=NetR7_2 Pin=VD4-1
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=R14-2
+Added Pin To Net: NetName=NetR12_2 Pin=TP9-1
+Added Pin To Net: NetName=NetR12_2 Pin=VT2-2
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetT1_10 Pin=T1-10
+Added Pin To Net: NetName=NetT1_10 Pin=T1-11
+Added Pin To Net: NetName=NetT1_10 Pin=T1-12
+Added Pin To Net: NetName=NetT1_10 Pin=TP1-1
+Added Pin To Net: NetName=NetT1_10 Pin=VD1-1
+Added Pin To Net: NetName=NetT1_10 Pin=VT2-3
+Added Net: Name=NetT1_10
+Added Pin To Net: NetName=VSUP Pin=C2-2
+Added Pin To Net: NetName=VSUP Pin=C3-1
+Added Pin To Net: NetName=VSUP Pin=C4-1
+Added Pin To Net: NetName=VSUP Pin=C5-1
+Added Pin To Net: NetName=VSUP Pin=R2-1
+Added Pin To Net: NetName=VSUP Pin=R3-1
+Added Pin To Net: NetName=VSUP Pin=R4-1
+Added Pin To Net: NetName=VSUP Pin=R5-1
+Added Pin To Net: NetName=VSUP Pin=R8-2
+Added Pin To Net: NetName=VSUP Pin=T1-1
+Added Pin To Net: NetName=VSUP Pin=T1-2
+Added Pin To Net: NetName=VSUP Pin=T1-3
+Added Pin To Net: NetName=VSUP Pin=TP4-1
+Added Pin To Net: NetName=VSUP Pin=VD2-A
+Added Pin To Net: NetName=VSUP Pin=VD3-K
+Added Pin To Net: NetName=VSUP Pin=XS1-1
+Added Pin To Net: NetName=VSUP Pin=XS1-3
+Added Pin To Net: NetName=VSUP Pin=XS1-5
+Added Net: Name=VSUP
+Added Class: Name=common_power
