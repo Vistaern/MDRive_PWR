@@ -2,6 +2,187 @@
 FileName = MDrive_powertest.GBR
 AutoAperture = True
 *************************************************************
+Generating : Ground
+      File : MDrive_powertest.GP2
+
+    Adding Layer      : Ground
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D40
+    D71
+    D91
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : MDrive_powertest.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : MDrive_powertest.GM4
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : MDrive_powertest.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : MDrive_powertest.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D26
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D91
+    D104
+    D117
+    D118
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : MDrive_powertest.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D51
+    D57
+    D70
+    D71
+    D72
+    D73
+    D75
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+*************************************************************
+
+*************************************************************
 Generating : Top Solder
       File : MDrive_powertest.GTS
 
@@ -42,6 +223,36 @@ Used DCodes :
     D45
     D46
     D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Power
+      File : MDrive_powertest.GP1
+
+    Adding Layer      : Power
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D70
+    D71
+    D73
+    D91
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
 *************************************************************
 
 *************************************************************
@@ -61,203 +272,5 @@ Used DCodes :
     D16
     D17
     D18
-*************************************************************
-
-*************************************************************
-Generating : Ground
-      File : MDrive_powertest.GP2
-
-    Adding Layer      : Ground
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D45
-    D67
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : MDrive_powertest.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : MDrive_powertest.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : MDrive_powertest.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D53
-    D66
-    D67
-    D68
-    D69
-    D71
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 4
-      File : MDrive_powertest.GM4
-
-    Adding Layer      : Mechanical 4
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Power
-      File : MDrive_powertest.GP1
-
-    Adding Layer      : Power
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D66
-    D67
-    D69
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : MDrive_powertest.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D24
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D99
-    D109
-    D110
-    D111
 *************************************************************
 
